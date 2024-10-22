@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **Discord bot developer** and **server co
 
 - :headphones: **Music Bot Dev**: I’m building custom music bots using **Lavalink** and **LavaPlayer**, adding fun features like filters and control panels.
 - :art: **Creative Coder**: I enjoy working on visual elements, enhancing user experience with cool embeds and personalized interfaces.
-- :tools: **Tools of the Trade**:
+- 🛠 **Tools of the Trade**:
   - Languages: **TypeScript**, **JavaScript**, **Java**
   - Databases: **MongoDB** (with **QuickMongo.js/Mongoose**), **MySQL/SQL** (with **HikariCP**, **SQLITE**)
   - Server: **TunnelBroker**, **VPS**, **Minecraft Server** Configuration but also  **Plugins** 
