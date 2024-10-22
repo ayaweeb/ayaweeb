@@ -1,6 +1,6 @@
 # Hi there, I'm Aya! :cherry_blossom:
 
-Welcome to my GitHub! I'm a passionate **Discord bot developer** and **server configurer**. I love coding and crafting creative solutions, especially when it comes to bots and web applications. Here's a bit more about me:
+Welcome to my GitHub! I'm a passionate **Discord bot developer** and **server configurator**. I love coding and crafting creative solutions, especially when it comes to bots and web applications. Here's a bit more about me:
 
 - :headphones: **Music Bot Dev**: I’m building custom music bots using **Lavalink** and **LavaPlayer**, adding fun features like filters and control panels.
 - :art: **Creative Coder**: I enjoy working on visual elements, enhancing user experience with cool embeds and personalized interfaces.
