@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Discord bot developer** and **server co
 - :art: **Creative Coder**: I enjoy working on visual elements, enhancing user experience with cool embeds and personalized interfaces.
 - :tools: **Tools of the Trade**:
   - Languages: **TypeScript**, **JavaScript**, **Java**
-  - Databases: **MongoDB** (with **QuickMongo.js/Mongoose**)
+  - Databases: **MongoDB** (with **QuickMongo.js/Mongoose**), **MySQL/SQL** (with **HikariCP**, **SQLITE**)
   - Server: **TunnelBroker**, **VPS**, **Minecraft Server** Configuration but also  **Plugins** 
 
 ## :wrench: My Current Projects
