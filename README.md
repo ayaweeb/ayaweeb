@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm a passionate **Discord bot developer** and **server co
 - :notes: **Music Bot**: A feature-rich music bot with custom embeds, control panels, and filters.
 
 ## :star2: Fun Facts
-- :shield: **VPS Geek**: I configure servers, manage VPNs (like **WireGuard**), and troubleshoot SSH issues.
 - :bulb: **Learning Always**: I’m constantly experimenting with new technologies and striving to make my projects more efficient and user-friendly.
 
 ## :mailbox: How to Reach Me
